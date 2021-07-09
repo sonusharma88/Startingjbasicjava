@@ -1,3 +1,5 @@
+package all_class;
+
 public class Loops {
     // loops is used to  same contant Repeated
     // so used to for loops

@@ -1,3 +1,5 @@
+package all_class;
+
 public class Variables {
     public static void main(String[] args){
         // String is used to only names
