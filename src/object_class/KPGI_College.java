@@ -5,7 +5,7 @@ public class KPGI_College {
     String Branch = "B.Tech MBA BBA BCA POLYTECHNIC BTC D.PHARMA ";
     String ClassRoom = "AC Class";
     String Staffqualification = "M.Tech";
-    int Placement = 100;
+    String Placement = "100%";
     int TotalStaff = 106;
 
     public static void main(String[] args){

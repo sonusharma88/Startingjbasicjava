@@ -11,8 +11,8 @@ public class condition {
         else {
             System.out.println("this is a child");
         }
-        int i=1;
-        for(i=1; i<=1000; i++){
+
+        for(int i=1; i<=10; i++){
             System.out.println("KISHAN PAL SINGH...."  +i);
         }
 
@@ -29,6 +29,27 @@ public class condition {
         }
         else{
             System.out.println("price lower");
+        }
+        String sim="AIRTEL";
+        if(sim=="vodafone"){
+            System.out.println("THIS IS A VODAFONE SIM CARD");
+        }
+        else{
+            System.out.println("THIS IS A ANOTHER SIM CARD");
+        }
+ int no=11;
+        if(no>10){
+            System.out.println("YOU ARE INTELIGENTT");
+        }
+        else{
+            System.out.println("YOU ARE NOT INTELIGENT");
+        }
+        double marks=91.33;
+        if(marks>81.33){
+            System.out.println("YOU ARE MINDED BOY");
+        }
+        else{
+            System.out.println("YOU ARE A LOOSER BOY");
         }
 
     }
