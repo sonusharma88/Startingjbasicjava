@@ -13,7 +13,8 @@ public class CalculaterMethods {
 
 
   public void submethods(){
-      System.out.println("This is a sub");
+
+        System.out.println("This is a sub");
   }
 
 

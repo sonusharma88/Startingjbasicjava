@@ -4,8 +4,8 @@ public class Loops {
     // loops is used to  same contant Repeated
     // so used to for loops
     public static void main(String[] args){
-        for(int i=1;i<=100;i++){
-            System.out.println("Kashish  "    +i);
+        for(int i=1;i<=1000;i++){
+            System.out.println("AKASH "    +i);
         }
 
 
