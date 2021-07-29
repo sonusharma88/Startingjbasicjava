@@ -12,6 +12,7 @@ public class HashmapDemo {
         HashMap.put(3,"Rakesh");
         HashMap.put(4,"Hanshika");
         HashMap.put(5,"Rani");
+
         System.out.println("Hashmap printing values "  +HashMap.get(1));
         System.out.println("Hashmap printing values "  +HashMap.get(2));
         System.out.println("Hashmap printing values "  +HashMap.get(3));
