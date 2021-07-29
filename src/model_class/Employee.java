@@ -1,6 +1,9 @@
 package model_class;
 
 public class Employee {
+
+    // Model Class of Employee
+
     String name;
     String post;
     int id;
