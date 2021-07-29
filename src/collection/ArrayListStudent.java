@@ -17,12 +17,14 @@ public class ArrayListStudent {
     Student Student2 = new Student("Raj", 45, 546346, "ME");
     Student Student3 = new Student("Manisha", 44, 5463454, "IT");
     Student Student4 = new Student("Upadhya", 54, 5463675, "CSE");
+    Student Student5 = new Student("Upadhya", 54, 5463675, "CSE");
 
     // adding
         StudentList.add(Student1);
         StudentList.add(Student2);
         StudentList.add(Student3);
         StudentList.add(Student4);
+        StudentList.add(Student5);
         // using advance loop
         for(Student var: StudentList){
             System.out.println("Printing Name  " +var.getName());
