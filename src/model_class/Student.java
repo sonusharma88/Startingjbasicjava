@@ -2,6 +2,8 @@ package model_class;
 
 public class Student {
 
+    // Model class of student
+
     String name;
     int age;
     int Rollno;
